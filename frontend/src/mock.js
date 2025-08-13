@@ -37,7 +37,7 @@ export const spaceQuizData = {
         {
           id: 1,
           question: "In which year did the Apollo 8 mission carry humans around the Moon without landing??",
-          answer: ": 1968",
+          answer: "1968",
           topicTitle: "Space Exploration History"
         }
       ]
