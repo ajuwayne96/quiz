@@ -9,7 +9,7 @@ export const spaceQuizData = {
         {
           id: 1,
           question: "Which Indian Mars mission was launched in 2013?",
-          answer: "Mangalyaan (Mars Orbiter Mission",
+          answer: "Mangalyaan (Mars Orbiter Mission)",
           topicTitle: "Indian Space Missions"
         }
       ]
