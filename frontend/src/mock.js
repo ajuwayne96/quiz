@@ -3,13 +3,13 @@ export const spaceQuizData = {
     {
       id: 1,
       title: "Indian Space Missions",
-      description: "Explore India's groundbreaking space missions and achievements",
+      description: "",
       icon: "🚀",
       questions: [
         {
           id: 1,
           question: "Which Indian Mars mission was launched in 2013?",
-          answer: "2014 (Mars Orbiter Mission)",
+          answer: "Mangalyaan (Mars Orbiter Mission",
           topicTitle: "Indian Space Missions"
         }
       ]
@@ -17,13 +17,13 @@ export const spaceQuizData = {
     {
       id: 2,
       title: "Achievements of ISRO",
-      description: "Discover the remarkable accomplishments of India's space agency",
+      description: "",
       icon: "🛰️",
       questions: [
         {
           id: 1,
-          question: "In 2017, ISRO launched how many satellites in a single mission?",
-          answer: "104 satellites",
+          question: "In 2017, ISRO set a world record for launching the highest number of satellites in a single mission. How many nanosatellites were included? ",
+          answer: "103 satellites",
           topicTitle: "Achievements of ISRO"
         }
       ]
@@ -31,13 +31,13 @@ export const spaceQuizData = {
     {
       id: 3,
       title: "Space Exploration History",
-      description: "Journey through the history of human space exploration",
+      description: "",
       icon: "🌌",
       questions: [
         {
           id: 1,
-          question: "Which was the first mission to carry humans around the Moon without landing?",
-          answer: "Apollo 8",
+          question: "In which year did the Apollo 8 mission carry humans around the Moon without landing??",
+          answer: ": 1968",
           topicTitle: "Space Exploration History"
         }
       ]
@@ -45,7 +45,7 @@ export const spaceQuizData = {
     {
       id: 4,
       title: "Indian Space Station",
-      description: "Learn about India's ambitious space station project",
+      description: "",
       icon: "🏗️",
       questions: [
         {
@@ -59,13 +59,13 @@ export const spaceQuizData = {
     {
       id: 5,
       title: "Future of Space Technology",
-      description: "Explore the cutting-edge future of space technology",
+      description: "",
       icon: "🔮",
       questions: [
         {
           id: 1,
-          question: "Which launch vehicle carried Chandrayaan-2?",
-          answer: "GSLV Mk-III",
+          question: "By which year is India expected to send a man to moon?",
+          answer: "2040",
           topicTitle: "Future of Space Technology"
         }
       ]
