@@ -11,11 +11,6 @@ export const spaceQuizData = {
           question: "Which Indian Mars mission was launched in 2013?",
           answer: "2014 (Mars Orbiter Mission)",
           topicTitle: "Indian Space Missions"
-        },{
-          id: 2,
-          question: "Which Indian Mars  was launched in 2013?",
-          answer: "2014 (Mars Orbiter Mission)",
-          topicTitle: "Indian Space Missions"
         }
       ]
     },
